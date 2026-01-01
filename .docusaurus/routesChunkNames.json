@@ -1,0 +1,209 @@
+{
+  "/ai-book-docusaurus/__docusaurus/debug-b41": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---ai-book-docusaurus-docusaurus-debugb-38-4f7"
+    }
+  },
+  "/ai-book-docusaurus/__docusaurus/debug/config-40e": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---ai-book-docusaurus-docusaurus-debugb-38-4f7"
+    }
+  },
+  "/ai-book-docusaurus/__docusaurus/debug/content-82f": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---ai-book-docusaurus-docusaurus-debugb-38-4f7"
+    },
+    "__props": "__props---ai-book-docusaurus-docusaurus-debug-contentcba-d4d"
+  },
+  "/ai-book-docusaurus/__docusaurus/debug/globalData-4b2": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---ai-book-docusaurus-docusaurus-debugb-38-4f7"
+    }
+  },
+  "/ai-book-docusaurus/__docusaurus/debug/metadata-3d1": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---ai-book-docusaurus-docusaurus-debugb-38-4f7"
+    }
+  },
+  "/ai-book-docusaurus/__docusaurus/debug/registry-73e": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---ai-book-docusaurus-docusaurus-debugb-38-4f7"
+    }
+  },
+  "/ai-book-docusaurus/__docusaurus/debug/routes-e28": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---ai-book-docusaurus-docusaurus-debugb-38-4f7"
+    }
+  },
+  "/ai-book-docusaurus/docs-164": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---ai-book-docusaurus-docsaba-439"
+    }
+  },
+  "/ai-book-docusaurus/docs-8f6": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---ai-book-docusaurus-docsa-09-0a1"
+  },
+  "/ai-book-docusaurus/docs-7a6": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/ai-book-docusaurus/docs/intro-f38": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-intro-0-e-3-72c"
+  },
+  "/ai-book-docusaurus/docs/module-1/chapter-outline-8b5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-1-chapter-outlinec-63-a71"
+  },
+  "/ai-book-docusaurus/docs/module-1/intro-5e8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-1-introf-2-e-cb5"
+  },
+  "/ai-book-docusaurus/docs/module-1/nodes-topics-services-179": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-1-nodes-topics-services-65-e-aaa"
+  },
+  "/ai-book-docusaurus/docs/module-1/python-ros-integration-f4e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-1-python-ros-integrationde-5-658"
+  },
+  "/ai-book-docusaurus/docs/module-1/sensor-systems-a5d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-1-sensor-systems-7-df-2ea"
+  },
+  "/ai-book-docusaurus/docs/module-1/urdf-humanoid-667": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-1-urdf-humanoidd-02-3ae"
+  },
+  "/ai-book-docusaurus/docs/module-2/building-ros2-packages-python-47e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-2-building-ros-2-packages-pythonc-8-d-d6d"
+  },
+  "/ai-book-docusaurus/docs/module-2/gazebo-environment-setup-485": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-2-gazebo-environment-setupba-8-d9d"
+  },
+  "/ai-book-docusaurus/docs/module-2/gazebo-simulation-7c5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-2-gazebo-simulationdc-1-aed"
+  },
+  "/ai-book-docusaurus/docs/module-2/high-fidelity-rendering-0b0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-2-high-fidelity-rendering-201-bc4"
+  },
+  "/ai-book-docusaurus/docs/module-2/human-robot-interaction-unity-dc2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-2-human-robot-interaction-unity-938-115"
+  },
+  "/ai-book-docusaurus/docs/module-2/intro-845": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-2-introb-99-d0b"
+  },
+  "/ai-book-docusaurus/docs/module-2/launch-files-parameters-a27": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-2-launch-files-parameters-5-d-7-074"
+  },
+  "/ai-book-docusaurus/docs/module-2/nodes-topics-services-actions-288": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-2-nodes-topics-services-actions-523-b0f"
+  },
+  "/ai-book-docusaurus/docs/module-2/physics-gravity-collision-simulation-c33": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-2-physics-gravity-collision-simulation-7-ed-f3d"
+  },
+  "/ai-book-docusaurus/docs/module-2/ros2-architecture-3f1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-2-ros-2-architecture-1-b-9-b10"
+  },
+  "/ai-book-docusaurus/docs/module-2/ros2-fundamentals-c30": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-2-ros-2-fundamentals-22-a-b2a"
+  },
+  "/ai-book-docusaurus/docs/module-2/sensor-simulation-b83": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-2-sensor-simulation-350-b2d"
+  },
+  "/ai-book-docusaurus/docs/module-2/unity-visualization-1b3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-2-unity-visualizatione-36-506"
+  },
+  "/ai-book-docusaurus/docs/module-2/urdf-sdf-formats-8c4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-2-urdf-sdf-formatsf-43-5f1"
+  },
+  "/ai-book-docusaurus/docs/module-3/cognitive-planning-actions-296": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-3-cognitive-planning-actionsd-46-55f"
+  },
+  "/ai-book-docusaurus/docs/module-3/intro-ae2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-3-introb-97-ada"
+  },
+  "/ai-book-docusaurus/docs/module-3/isaac-environment-setup-876": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-3-isaac-environment-setupfe-4-be3"
+  },
+  "/ai-book-docusaurus/docs/module-3/nvidia-isaac-architecture-78e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-3-nvidia-isaac-architecturebce-275"
+  },
+  "/ai-book-docusaurus/docs/module-3/perception-ai-models-189": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-3-perception-ai-models-30-e-585"
+  },
+  "/ai-book-docusaurus/docs/module-3/sim-to-real-bridge-72c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-3-sim-to-real-bridged-63-188"
+  },
+  "/ai-book-docusaurus/docs/module-3/training-loop-103": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-3-training-loop-2-f-3-2cd"
+  },
+  "/ai-book-docusaurus/docs/module-4/bipedal-locomotion-balance-6d0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-4-bipedal-locomotion-balancec-09-5e1"
+  },
+  "/ai-book-docusaurus/docs/module-4/capstone-autonomous-humanoid-89f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-4-capstone-autonomous-humanoid-172-f64"
+  },
+  "/ai-book-docusaurus/docs/module-4/cognitive-planning-llm-ros-494": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-4-cognitive-planning-llm-ros-2-e-5-fd9"
+  },
+  "/ai-book-docusaurus/docs/module-4/humanoid-kinematics-dynamics-038": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-4-humanoid-kinematics-dynamicsbb-2-e32"
+  },
+  "/ai-book-docusaurus/docs/module-4/manipulation-grasping-5ae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-4-manipulation-grasping-2-f-7-fbf"
+  },
+  "/ai-book-docusaurus/docs/module-4/multi-modal-interaction-708": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-4-multi-modal-interaction-2-bc-9ba"
+  },
+  "/ai-book-docusaurus/docs/module-4/vla-overview-03d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-4-vla-overview-967-11d"
+  },
+  "/ai-book-docusaurus/docs/module-4/voice-to-action-whisper-379": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-docusaurus-docs-module-4-voice-to-action-whisperacf-876"
+  },
+  "/ai-book-docusaurus/-720": {
+    "__comp": "__comp---site-src-pages-index-jsx-9-dd-cb1",
+    "__context": {
+      "plugin": "plugin---ai-book-docusaurus-a-74-fff"
+    },
+    "config": "config---ai-book-docusaurus-5-e-9-c82"
+  }
+}

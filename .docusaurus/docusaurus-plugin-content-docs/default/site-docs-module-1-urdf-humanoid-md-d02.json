@@ -1,0 +1,29 @@
+{
+  "id": "module-1/urdf-humanoid",
+  "title": "URDF for Humanoid Robot Modeling",
+  "description": "Understanding and creating Universal Robot Description Format (URDF) models for humanoid robots",
+  "source": "@site/docs/module-1/urdf-humanoid.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/urdf-humanoid",
+  "permalink": "/ai-book-docusaurus/docs/module-1/urdf-humanoid",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-1/urdf-humanoid.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "URDF for Humanoid Robot Modeling",
+    "sidebar_position": 4,
+    "description": "Understanding and creating Universal Robot Description Format (URDF) models for humanoid robots"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to ROS 2 for Humanoid Robotics",
+    "permalink": "/ai-book-docusaurus/docs/module-1/intro"
+  },
+  "next": {
+    "title": "Bridging Python AI Agents with ROS Controllers",
+    "permalink": "/ai-book-docusaurus/docs/module-1/python-ros-integration"
+  }
+}

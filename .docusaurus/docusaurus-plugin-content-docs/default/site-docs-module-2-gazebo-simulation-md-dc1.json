@@ -1,0 +1,20 @@
+{
+  "id": "module-2/gazebo-simulation",
+  "title": "Gazebo Simulation (Weeks 6–7)",
+  "description": "Setting up and using Gazebo for humanoid robot simulation in the digital twin workflow",
+  "source": "@site/docs/module-2/gazebo-simulation.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/gazebo-simulation",
+  "permalink": "/ai-book-docusaurus/docs/module-2/gazebo-simulation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-2/gazebo-simulation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Gazebo Simulation (Weeks 6–7)",
+    "sidebar_position": 7,
+    "description": "Setting up and using Gazebo for humanoid robot simulation in the digital twin workflow"
+  }
+}

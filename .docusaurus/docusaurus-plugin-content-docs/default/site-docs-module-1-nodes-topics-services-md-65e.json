@@ -1,0 +1,20 @@
+{
+  "id": "module-1/nodes-topics-services",
+  "title": "ROS 2 Nodes, Topics, and Services",
+  "description": "Understanding the fundamental communication patterns in ROS 2 for humanoid robotics applications",
+  "source": "@site/docs/module-1/nodes-topics-services.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/nodes-topics-services",
+  "permalink": "/ai-book-docusaurus/docs/module-1/nodes-topics-services",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-1/nodes-topics-services.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "ROS 2 Nodes, Topics, and Services",
+    "sidebar_position": 2,
+    "description": "Understanding the fundamental communication patterns in ROS 2 for humanoid robotics applications"
+  }
+}

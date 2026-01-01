@@ -1,0 +1,29 @@
+{
+  "id": "module-4/bipedal-locomotion-balance",
+  "title": "Bipedal Locomotion & Balance Control",
+  "description": "Understanding the principles of bipedal walking and balance control in humanoid robots",
+  "source": "@site/docs/module-4/bipedal-locomotion-balance.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/bipedal-locomotion-balance",
+  "permalink": "/ai-book-docusaurus/docs/module-4/bipedal-locomotion-balance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-4/bipedal-locomotion-balance.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Bipedal Locomotion & Balance Control",
+    "description": "Understanding the principles of bipedal walking and balance control in humanoid robots",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Humanoid Kinematics & Dynamics",
+    "permalink": "/ai-book-docusaurus/docs/module-4/humanoid-kinematics-dynamics"
+  },
+  "next": {
+    "title": "Manipulation & Grasping",
+    "permalink": "/ai-book-docusaurus/docs/module-4/manipulation-grasping"
+  }
+}

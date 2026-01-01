@@ -1,0 +1,20 @@
+{
+  "id": "module-2/unity-visualization",
+  "title": "Unity Visualization",
+  "description": "Creating high-fidelity visualization of humanoid robots in Unity for digital twin applications",
+  "source": "@site/docs/module-2/unity-visualization.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/unity-visualization",
+  "permalink": "/ai-book-docusaurus/docs/module-2/unity-visualization",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-2/unity-visualization.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "title": "Unity Visualization",
+    "description": "Creating high-fidelity visualization of humanoid robots in Unity for digital twin applications",
+    "sidebar_position": 12
+  }
+}

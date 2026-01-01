@@ -1,0 +1,29 @@
+{
+  "id": "module-2/building-ros2-packages-python",
+  "title": "Building ROS 2 Packages (Python)",
+  "description": "Creating and structuring ROS 2 packages using Python for humanoid robotics applications",
+  "source": "@site/docs/module-2/building-ros2-packages-python.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/building-ros2-packages-python",
+  "permalink": "/ai-book-docusaurus/docs/module-2/building-ros2-packages-python",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-2/building-ros2-packages-python.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Building ROS 2 Packages (Python)",
+    "sidebar_position": 5,
+    "description": "Creating and structuring ROS 2 packages using Python for humanoid robotics applications"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Nodes, Topics, Services, Actions",
+    "permalink": "/ai-book-docusaurus/docs/module-2/nodes-topics-services-actions"
+  },
+  "next": {
+    "title": "Gazebo Environment Setup",
+    "permalink": "/ai-book-docusaurus/docs/module-2/gazebo-environment-setup"
+  }
+}

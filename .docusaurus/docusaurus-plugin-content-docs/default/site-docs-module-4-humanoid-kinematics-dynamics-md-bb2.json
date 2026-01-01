@@ -1,0 +1,29 @@
+{
+  "id": "module-4/humanoid-kinematics-dynamics",
+  "title": "Humanoid Kinematics & Dynamics",
+  "description": "Understanding the mathematical models governing humanoid robot movement and force interactions",
+  "source": "@site/docs/module-4/humanoid-kinematics-dynamics.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/humanoid-kinematics-dynamics",
+  "permalink": "/ai-book-docusaurus/docs/module-4/humanoid-kinematics-dynamics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-4/humanoid-kinematics-dynamics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Humanoid Kinematics & Dynamics",
+    "description": "Understanding the mathematical models governing humanoid robot movement and force interactions",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cognitive Planning - LLM → ROS 2 Actions",
+    "permalink": "/ai-book-docusaurus/docs/module-4/cognitive-planning-llm-ros"
+  },
+  "next": {
+    "title": "Bipedal Locomotion & Balance Control",
+    "permalink": "/ai-book-docusaurus/docs/module-4/bipedal-locomotion-balance"
+  }
+}

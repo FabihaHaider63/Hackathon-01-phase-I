@@ -1,0 +1,29 @@
+{
+  "id": "module-3/intro",
+  "title": "AI-Robot Brain Overview",
+  "description": "Understanding the AI components of humanoid robotics using NVIDIA Isaac",
+  "source": "@site/docs/module-3/intro.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/intro",
+  "permalink": "/ai-book-docusaurus/docs/module-3/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-3/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "AI-Robot Brain Overview",
+    "description": "Understanding the AI components of humanoid robotics using NVIDIA Isaac",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sensor Simulation (LiDAR, Depth, IMU)",
+    "permalink": "/ai-book-docusaurus/docs/module-2/sensor-simulation"
+  },
+  "next": {
+    "title": "NVIDIA Isaac Architecture",
+    "permalink": "/ai-book-docusaurus/docs/module-3/nvidia-isaac-architecture"
+  }
+}

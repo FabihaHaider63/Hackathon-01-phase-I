@@ -1,0 +1,29 @@
+{
+  "id": "module-3/training-loop",
+  "title": "Training Loop",
+  "description": "Implementing reinforcement learning and training loops for humanoid robot control using Isaac",
+  "source": "@site/docs/module-3/training-loop.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/training-loop",
+  "permalink": "/ai-book-docusaurus/docs/module-3/training-loop",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-3/training-loop.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Training Loop",
+    "description": "Implementing reinforcement learning and training loops for humanoid robot control using Isaac",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Perception & AI Models",
+    "permalink": "/ai-book-docusaurus/docs/module-3/perception-ai-models"
+  },
+  "next": {
+    "title": "Sim-to-Real Bridge",
+    "permalink": "/ai-book-docusaurus/docs/module-3/sim-to-real-bridge"
+  }
+}

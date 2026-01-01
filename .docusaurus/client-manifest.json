@@ -1,0 +1,597 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "237": [
+      237
+    ],
+    "17896441": [
+      869,
+      401
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "0e384e19": [
+      976
+    ],
+    "1729190b": [
+      24
+    ],
+    "1b991413": [
+      167
+    ],
+    "201c2d4e": [
+      646
+    ],
+    "22abb363": [
+      902
+    ],
+    "2bc59c35": [
+      63
+    ],
+    "2e534811": [
+      786
+    ],
+    "2f3f3755": [
+      360
+    ],
+    "2f79c339": [
+      789
+    ],
+    "30e09994": [
+      376
+    ],
+    "35099b4b": [
+      173
+    ],
+    "523cd6bd": [
+      412
+    ],
+    "5d7fd20c": [
+      890
+    ],
+    "5e95c892": [
+      647
+    ],
+    "65e0d0d2": [
+      313
+    ],
+    "7df93a1d": [
+      290
+    ],
+    "7edf9c24": [
+      995
+    ],
+    "93803e45": [
+      190
+    ],
+    "967bbfa9": [
+      619
+    ],
+    "9dd8a0d2": [
+      869,
+      617
+    ],
+    "a09465b1": [
+      639
+    ],
+    "a7456010": [
+      235
+    ],
+    "a7bd4aaa": [
+      98
+    ],
+    "a94703ab": [
+      869,
+      48
+    ],
+    "aba21aa0": [
+      742
+    ],
+    "acf7ff95": [
+      296
+    ],
+    "b97bc248": [
+      648
+    ],
+    "b993f916": [
+      138
+    ],
+    "ba819079": [
+      962
+    ],
+    "bb2a108d": [
+      859
+    ],
+    "bce4012c": [
+      413
+    ],
+    "c09f4d7b": [
+      288
+    ],
+    "c63c58bb": [
+      997
+    ],
+    "c8d536c2": [
+      739
+    ],
+    "d0249113": [
+      923
+    ],
+    "d460f609": [
+      160
+    ],
+    "d6352313": [
+      16
+    ],
+    "dc1eb681": [
+      599
+    ],
+    "de5ac32e": [
+      941
+    ],
+    "e36df906": [
+      136
+    ],
+    "f2e56ae8": [
+      605
+    ],
+    "f4316b3a": [
+      25
+    ],
+    "fe4e2c68": [
+      542
+    ],
+    "styles": [
+      48,
+      354,
+      401,
+      617,
+      792,
+      869
+    ]
+  },
+  "assets": {
+    "16": {
+      "js": [
+        {
+          "file": "assets/js/d6352313.65a55549.js",
+          "hash": "d415759b8d8652b4",
+          "publicPath": "/ai-book-docusaurus/assets/js/d6352313.65a55549.js"
+        }
+      ]
+    },
+    "24": {
+      "js": [
+        {
+          "file": "assets/js/1729190b.10077584.js",
+          "hash": "719c667cb45f86a4",
+          "publicPath": "/ai-book-docusaurus/assets/js/1729190b.10077584.js"
+        }
+      ]
+    },
+    "25": {
+      "js": [
+        {
+          "file": "assets/js/f4316b3a.6bbbb633.js",
+          "hash": "26bfccbb3b8428e7",
+          "publicPath": "/ai-book-docusaurus/assets/js/f4316b3a.6bbbb633.js"
+        }
+      ]
+    },
+    "48": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.5abbc491.js",
+          "hash": "ec4dcff5ca39455b",
+          "publicPath": "/ai-book-docusaurus/assets/js/a94703ab.5abbc491.js"
+        }
+      ]
+    },
+    "63": {
+      "js": [
+        {
+          "file": "assets/js/2bc59c35.43e27d6b.js",
+          "hash": "cda6aad44f1d4942",
+          "publicPath": "/ai-book-docusaurus/assets/js/2bc59c35.43e27d6b.js"
+        }
+      ]
+    },
+    "98": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.4114b2ff.js",
+          "hash": "4c249bed10e1229e",
+          "publicPath": "/ai-book-docusaurus/assets/js/a7bd4aaa.4114b2ff.js"
+        }
+      ]
+    },
+    "136": {
+      "js": [
+        {
+          "file": "assets/js/e36df906.caa8cf98.js",
+          "hash": "9ea46726d54ab7e2",
+          "publicPath": "/ai-book-docusaurus/assets/js/e36df906.caa8cf98.js"
+        }
+      ]
+    },
+    "138": {
+      "js": [
+        {
+          "file": "assets/js/b993f916.b5cf5dec.js",
+          "hash": "5cc0b187a7a3d998",
+          "publicPath": "/ai-book-docusaurus/assets/js/b993f916.b5cf5dec.js"
+        }
+      ]
+    },
+    "160": {
+      "js": [
+        {
+          "file": "assets/js/d460f609.9609da22.js",
+          "hash": "60c1f2ad0091e890",
+          "publicPath": "/ai-book-docusaurus/assets/js/d460f609.9609da22.js"
+        }
+      ]
+    },
+    "167": {
+      "js": [
+        {
+          "file": "assets/js/1b991413.c76785a9.js",
+          "hash": "4e7a6222d21888ef",
+          "publicPath": "/ai-book-docusaurus/assets/js/1b991413.c76785a9.js"
+        }
+      ]
+    },
+    "173": {
+      "js": [
+        {
+          "file": "assets/js/35099b4b.934b1cb8.js",
+          "hash": "c88fc9496ea4f61a",
+          "publicPath": "/ai-book-docusaurus/assets/js/35099b4b.934b1cb8.js"
+        }
+      ]
+    },
+    "190": {
+      "js": [
+        {
+          "file": "assets/js/93803e45.4277acd6.js",
+          "hash": "24e244eb2301f86b",
+          "publicPath": "/ai-book-docusaurus/assets/js/93803e45.4277acd6.js"
+        }
+      ]
+    },
+    "235": {
+      "js": [
+        {
+          "file": "assets/js/a7456010.7083279c.js",
+          "hash": "0e8f88ca4f6902fc",
+          "publicPath": "/ai-book-docusaurus/assets/js/a7456010.7083279c.js"
+        }
+      ]
+    },
+    "237": {
+      "js": [
+        {
+          "file": "assets/js/237.c59fe7b9.js",
+          "hash": "4e8efd16b7d40e5e",
+          "publicPath": "/ai-book-docusaurus/assets/js/237.c59fe7b9.js"
+        }
+      ]
+    },
+    "288": {
+      "js": [
+        {
+          "file": "assets/js/c09f4d7b.32878f6f.js",
+          "hash": "dde774f13205630e",
+          "publicPath": "/ai-book-docusaurus/assets/js/c09f4d7b.32878f6f.js"
+        }
+      ]
+    },
+    "290": {
+      "js": [
+        {
+          "file": "assets/js/7df93a1d.3fec634c.js",
+          "hash": "a5f6968a347f5a8e",
+          "publicPath": "/ai-book-docusaurus/assets/js/7df93a1d.3fec634c.js"
+        }
+      ]
+    },
+    "296": {
+      "js": [
+        {
+          "file": "assets/js/acf7ff95.59cb6eee.js",
+          "hash": "c680be4abe97a8ee",
+          "publicPath": "/ai-book-docusaurus/assets/js/acf7ff95.59cb6eee.js"
+        }
+      ]
+    },
+    "313": {
+      "js": [
+        {
+          "file": "assets/js/65e0d0d2.48fa1612.js",
+          "hash": "e65f921e405f23b8",
+          "publicPath": "/ai-book-docusaurus/assets/js/65e0d0d2.48fa1612.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.f8d7e402.js",
+          "hash": "0acb87f964586ab0",
+          "publicPath": "/ai-book-docusaurus/assets/js/runtime~main.f8d7e402.js"
+        }
+      ]
+    },
+    "360": {
+      "js": [
+        {
+          "file": "assets/js/2f3f3755.e12bb6ee.js",
+          "hash": "45a40c5c4c42ee1e",
+          "publicPath": "/ai-book-docusaurus/assets/js/2f3f3755.e12bb6ee.js"
+        }
+      ]
+    },
+    "376": {
+      "js": [
+        {
+          "file": "assets/js/30e09994.76de8947.js",
+          "hash": "fe3a886336622a77",
+          "publicPath": "/ai-book-docusaurus/assets/js/30e09994.76de8947.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.93436ce7.js",
+          "hash": "18c33822766f286d",
+          "publicPath": "/ai-book-docusaurus/assets/js/17896441.93436ce7.js"
+        }
+      ]
+    },
+    "412": {
+      "js": [
+        {
+          "file": "assets/js/523cd6bd.53634a59.js",
+          "hash": "0d21be6ebe0ff2a1",
+          "publicPath": "/ai-book-docusaurus/assets/js/523cd6bd.53634a59.js"
+        }
+      ]
+    },
+    "413": {
+      "js": [
+        {
+          "file": "assets/js/bce4012c.59dab1c3.js",
+          "hash": "361570cbc81d6fa1",
+          "publicPath": "/ai-book-docusaurus/assets/js/bce4012c.59dab1c3.js"
+        }
+      ]
+    },
+    "542": {
+      "js": [
+        {
+          "file": "assets/js/fe4e2c68.04d8e1f1.js",
+          "hash": "67f6b714a99f70c0",
+          "publicPath": "/ai-book-docusaurus/assets/js/fe4e2c68.04d8e1f1.js"
+        }
+      ]
+    },
+    "599": {
+      "js": [
+        {
+          "file": "assets/js/dc1eb681.de8ced1e.js",
+          "hash": "ef038e8672e76bd4",
+          "publicPath": "/ai-book-docusaurus/assets/js/dc1eb681.de8ced1e.js"
+        }
+      ]
+    },
+    "605": {
+      "js": [
+        {
+          "file": "assets/js/f2e56ae8.392b5c71.js",
+          "hash": "373cf190b933e933",
+          "publicPath": "/ai-book-docusaurus/assets/js/f2e56ae8.392b5c71.js"
+        }
+      ]
+    },
+    "617": {
+      "js": [
+        {
+          "file": "assets/js/9dd8a0d2.605f911d.js",
+          "hash": "09b251f5f27f8640",
+          "publicPath": "/ai-book-docusaurus/assets/js/9dd8a0d2.605f911d.js"
+        }
+      ]
+    },
+    "619": {
+      "js": [
+        {
+          "file": "assets/js/967bbfa9.dd7c9e3b.js",
+          "hash": "6b2fe01166101530",
+          "publicPath": "/ai-book-docusaurus/assets/js/967bbfa9.dd7c9e3b.js"
+        }
+      ]
+    },
+    "639": {
+      "js": [
+        {
+          "file": "assets/js/a09465b1.2dbdf0d3.js",
+          "hash": "5b6b7a9af0e2067c",
+          "publicPath": "/ai-book-docusaurus/assets/js/a09465b1.2dbdf0d3.js"
+        }
+      ]
+    },
+    "646": {
+      "js": [
+        {
+          "file": "assets/js/201c2d4e.f3b099f3.js",
+          "hash": "8b9b08d09f81c5d9",
+          "publicPath": "/ai-book-docusaurus/assets/js/201c2d4e.f3b099f3.js"
+        }
+      ]
+    },
+    "647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.db1e949d.js",
+          "hash": "f805fa084f89c5dc",
+          "publicPath": "/ai-book-docusaurus/assets/js/5e95c892.db1e949d.js"
+        }
+      ]
+    },
+    "648": {
+      "js": [
+        {
+          "file": "assets/js/b97bc248.de3603b8.js",
+          "hash": "f804dadab77304e7",
+          "publicPath": "/ai-book-docusaurus/assets/js/b97bc248.de3603b8.js"
+        }
+      ]
+    },
+    "739": {
+      "js": [
+        {
+          "file": "assets/js/c8d536c2.91092a11.js",
+          "hash": "9db1c7fb47ebd99d",
+          "publicPath": "/ai-book-docusaurus/assets/js/c8d536c2.91092a11.js"
+        }
+      ]
+    },
+    "742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.9ae624e8.js",
+          "hash": "3dba24b6187cd2ad",
+          "publicPath": "/ai-book-docusaurus/assets/js/aba21aa0.9ae624e8.js"
+        }
+      ]
+    },
+    "786": {
+      "js": [
+        {
+          "file": "assets/js/2e534811.817f001c.js",
+          "hash": "92e46c2c3fa2e9a6",
+          "publicPath": "/ai-book-docusaurus/assets/js/2e534811.817f001c.js"
+        }
+      ]
+    },
+    "789": {
+      "js": [
+        {
+          "file": "assets/js/2f79c339.85abc61d.js",
+          "hash": "f76f5027e5554604",
+          "publicPath": "/ai-book-docusaurus/assets/js/2f79c339.85abc61d.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.510a68bd.js",
+          "hash": "b5e586295e4fe856",
+          "publicPath": "/ai-book-docusaurus/assets/js/main.510a68bd.js"
+        }
+      ]
+    },
+    "859": {
+      "js": [
+        {
+          "file": "assets/js/bb2a108d.3882df04.js",
+          "hash": "d4d7dbe6670d1337",
+          "publicPath": "/ai-book-docusaurus/assets/js/bb2a108d.3882df04.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.37166f7a.css",
+          "hash": "4cd52199ee641c1b",
+          "publicPath": "/ai-book-docusaurus/assets/css/styles.37166f7a.css"
+        }
+      ]
+    },
+    "890": {
+      "js": [
+        {
+          "file": "assets/js/5d7fd20c.c510bfa9.js",
+          "hash": "09305e592ed08596",
+          "publicPath": "/ai-book-docusaurus/assets/js/5d7fd20c.c510bfa9.js"
+        }
+      ]
+    },
+    "902": {
+      "js": [
+        {
+          "file": "assets/js/22abb363.6115ef16.js",
+          "hash": "913ad69e3d80df45",
+          "publicPath": "/ai-book-docusaurus/assets/js/22abb363.6115ef16.js"
+        }
+      ]
+    },
+    "923": {
+      "js": [
+        {
+          "file": "assets/js/d0249113.3367a7dc.js",
+          "hash": "5da43fba35e79486",
+          "publicPath": "/ai-book-docusaurus/assets/js/d0249113.3367a7dc.js"
+        }
+      ]
+    },
+    "941": {
+      "js": [
+        {
+          "file": "assets/js/de5ac32e.b9710c6d.js",
+          "hash": "6b1479ce7ce30bc5",
+          "publicPath": "/ai-book-docusaurus/assets/js/de5ac32e.b9710c6d.js"
+        }
+      ]
+    },
+    "962": {
+      "js": [
+        {
+          "file": "assets/js/ba819079.a86e77d0.js",
+          "hash": "770722064cd6aa96",
+          "publicPath": "/ai-book-docusaurus/assets/js/ba819079.a86e77d0.js"
+        }
+      ]
+    },
+    "976": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.646aafd3.js",
+          "hash": "fcd8508f8aa128eb",
+          "publicPath": "/ai-book-docusaurus/assets/js/0e384e19.646aafd3.js"
+        }
+      ]
+    },
+    "995": {
+      "js": [
+        {
+          "file": "assets/js/7edf9c24.34914e1a.js",
+          "hash": "06b3573a1822af80",
+          "publicPath": "/ai-book-docusaurus/assets/js/7edf9c24.34914e1a.js"
+        }
+      ]
+    },
+    "997": {
+      "js": [
+        {
+          "file": "assets/js/c63c58bb.9c417e86.js",
+          "hash": "8375e06a662e8c2b",
+          "publicPath": "/ai-book-docusaurus/assets/js/c63c58bb.9c417e86.js"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "module-2/gazebo-environment-setup",
+  "title": "Gazebo Environment Setup",
+  "description": "Setting up Gazebo simulation environments for humanoid robotics applications",
+  "source": "@site/docs/module-2/gazebo-environment-setup.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/gazebo-environment-setup",
+  "permalink": "/ai-book-docusaurus/docs/module-2/gazebo-environment-setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-2/gazebo-environment-setup.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "Gazebo Environment Setup",
+    "sidebar_position": 8,
+    "description": "Setting up Gazebo simulation environments for humanoid robotics applications"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Building ROS 2 Packages (Python)",
+    "permalink": "/ai-book-docusaurus/docs/module-2/building-ros2-packages-python"
+  },
+  "next": {
+    "title": "Sensor Simulation (LiDAR, Depth, IMU)",
+    "permalink": "/ai-book-docusaurus/docs/module-2/sensor-simulation"
+  }
+}

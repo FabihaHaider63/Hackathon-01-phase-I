@@ -1,0 +1,29 @@
+{
+  "id": "module-3/perception-ai-models",
+  "title": "Perception & AI Models",
+  "description": "Implementing perception systems and AI models for humanoid robots using Isaac ROS",
+  "source": "@site/docs/module-3/perception-ai-models.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/perception-ai-models",
+  "permalink": "/ai-book-docusaurus/docs/module-3/perception-ai-models",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-3/perception-ai-models.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Perception & AI Models",
+    "description": "Implementing perception systems and AI models for humanoid robots using Isaac ROS",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Isaac Environment Setup",
+    "permalink": "/ai-book-docusaurus/docs/module-3/isaac-environment-setup"
+  },
+  "next": {
+    "title": "Training Loop",
+    "permalink": "/ai-book-docusaurus/docs/module-3/training-loop"
+  }
+}

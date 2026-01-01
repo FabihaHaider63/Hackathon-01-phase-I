@@ -1,0 +1,29 @@
+{
+  "id": "module-2/urdf-sdf-formats",
+  "title": "URDF & SDF Formats",
+  "description": "Understanding URDF and SDF formats for robot modeling in ROS 2 and Gazebo simulation",
+  "source": "@site/docs/module-2/urdf-sdf-formats.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/urdf-sdf-formats",
+  "permalink": "/ai-book-docusaurus/docs/module-2/urdf-sdf-formats",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-2/urdf-sdf-formats.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "title": "URDF & SDF Formats",
+    "sidebar_position": 9,
+    "description": "Understanding URDF and SDF formats for robot modeling in ROS 2 and Gazebo simulation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to the Digital Twin",
+    "permalink": "/ai-book-docusaurus/docs/module-2/intro"
+  },
+  "next": {
+    "title": "ROS 2 Fundamentals (Weeks 3–5)",
+    "permalink": "/ai-book-docusaurus/docs/module-2/ros2-fundamentals"
+  }
+}

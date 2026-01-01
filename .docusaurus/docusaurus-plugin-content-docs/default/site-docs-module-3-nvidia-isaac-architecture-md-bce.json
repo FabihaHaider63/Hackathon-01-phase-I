@@ -1,0 +1,29 @@
+{
+  "id": "module-3/nvidia-isaac-architecture",
+  "title": "NVIDIA Isaac Architecture",
+  "description": "Understanding the components and architecture of the NVIDIA Isaac platform",
+  "source": "@site/docs/module-3/nvidia-isaac-architecture.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/nvidia-isaac-architecture",
+  "permalink": "/ai-book-docusaurus/docs/module-3/nvidia-isaac-architecture",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-3/nvidia-isaac-architecture.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "NVIDIA Isaac Architecture",
+    "description": "Understanding the components and architecture of the NVIDIA Isaac platform",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AI-Robot Brain Overview",
+    "permalink": "/ai-book-docusaurus/docs/module-3/intro"
+  },
+  "next": {
+    "title": "Cognitive Planning & Actions",
+    "permalink": "/ai-book-docusaurus/docs/module-3/cognitive-planning-actions"
+  }
+}

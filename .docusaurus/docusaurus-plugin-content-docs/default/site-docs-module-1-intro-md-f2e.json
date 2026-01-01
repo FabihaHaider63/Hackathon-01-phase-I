@@ -1,0 +1,25 @@
+{
+  "id": "module-1/intro",
+  "title": "Introduction to ROS 2 for Humanoid Robotics",
+  "description": "An introduction to Robot Operating System 2 concepts and how they apply to humanoid robotics",
+  "source": "@site/docs/module-1/intro.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/intro",
+  "permalink": "/ai-book-docusaurus/docs/module-1/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-1/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction to ROS 2 for Humanoid Robotics",
+    "sidebar_position": 1,
+    "description": "An introduction to Robot Operating System 2 concepts and how they apply to humanoid robotics"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "URDF for Humanoid Robot Modeling",
+    "permalink": "/ai-book-docusaurus/docs/module-1/urdf-humanoid"
+  }
+}

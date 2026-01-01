@@ -1,0 +1,29 @@
+{
+  "id": "module-1/sensor-systems",
+  "title": "Sensor Systems Overview",
+  "description": "Understanding LIDAR, cameras, IMUs, and force/torque sensors for humanoid robotics",
+  "source": "@site/docs/module-1/sensor-systems.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/sensor-systems",
+  "permalink": "/ai-book-docusaurus/docs/module-1/sensor-systems",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-1/sensor-systems.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Sensor Systems Overview",
+    "sidebar_position": 5,
+    "description": "Understanding LIDAR, cameras, IMUs, and force/torque sensors for humanoid robotics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bridging Python AI Agents with ROS Controllers",
+    "permalink": "/ai-book-docusaurus/docs/module-1/python-ros-integration"
+  },
+  "next": {
+    "title": "Introduction to the Digital Twin",
+    "permalink": "/ai-book-docusaurus/docs/module-2/intro"
+  }
+}

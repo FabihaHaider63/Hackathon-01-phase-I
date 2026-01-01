@@ -1,0 +1,20 @@
+{
+  "id": "module-2/launch-files-parameters",
+  "title": "Launch Files & Parameters",
+  "description": "Understanding and creating ROS 2 launch files and parameter configurations for humanoid robotics",
+  "source": "@site/docs/module-2/launch-files-parameters.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/launch-files-parameters",
+  "permalink": "/ai-book-docusaurus/docs/module-2/launch-files-parameters",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-2/launch-files-parameters.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Launch Files & Parameters",
+    "sidebar_position": 6,
+    "description": "Understanding and creating ROS 2 launch files and parameter configurations for humanoid robotics"
+  }
+}

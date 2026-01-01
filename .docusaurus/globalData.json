@@ -1,0 +1,198 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/ai-book-docusaurus/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/ai-book-docusaurus/docs",
+          "mainDocId": "module-1/intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/ai-book-docusaurus/docs/intro"
+            },
+            {
+              "id": "module-1/chapter-outline",
+              "path": "/ai-book-docusaurus/docs/module-1/chapter-outline"
+            },
+            {
+              "id": "module-1/intro",
+              "path": "/ai-book-docusaurus/docs/module-1/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1/nodes-topics-services",
+              "path": "/ai-book-docusaurus/docs/module-1/nodes-topics-services"
+            },
+            {
+              "id": "module-1/python-ros-integration",
+              "path": "/ai-book-docusaurus/docs/module-1/python-ros-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1/sensor-systems",
+              "path": "/ai-book-docusaurus/docs/module-1/sensor-systems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1/urdf-humanoid",
+              "path": "/ai-book-docusaurus/docs/module-1/urdf-humanoid",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2/building-ros2-packages-python",
+              "path": "/ai-book-docusaurus/docs/module-2/building-ros2-packages-python",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2/gazebo-environment-setup",
+              "path": "/ai-book-docusaurus/docs/module-2/gazebo-environment-setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2/gazebo-simulation",
+              "path": "/ai-book-docusaurus/docs/module-2/gazebo-simulation"
+            },
+            {
+              "id": "module-2/high-fidelity-rendering",
+              "path": "/ai-book-docusaurus/docs/module-2/high-fidelity-rendering"
+            },
+            {
+              "id": "module-2/human-robot-interaction-unity",
+              "path": "/ai-book-docusaurus/docs/module-2/human-robot-interaction-unity"
+            },
+            {
+              "id": "module-2/intro",
+              "path": "/ai-book-docusaurus/docs/module-2/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2/launch-files-parameters",
+              "path": "/ai-book-docusaurus/docs/module-2/launch-files-parameters"
+            },
+            {
+              "id": "module-2/nodes-topics-services-actions",
+              "path": "/ai-book-docusaurus/docs/module-2/nodes-topics-services-actions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2/physics-gravity-collision-simulation",
+              "path": "/ai-book-docusaurus/docs/module-2/physics-gravity-collision-simulation"
+            },
+            {
+              "id": "module-2/ros2-architecture",
+              "path": "/ai-book-docusaurus/docs/module-2/ros2-architecture"
+            },
+            {
+              "id": "module-2/ros2-fundamentals",
+              "path": "/ai-book-docusaurus/docs/module-2/ros2-fundamentals",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2/sensor-simulation",
+              "path": "/ai-book-docusaurus/docs/module-2/sensor-simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2/unity-visualization",
+              "path": "/ai-book-docusaurus/docs/module-2/unity-visualization"
+            },
+            {
+              "id": "module-2/urdf-sdf-formats",
+              "path": "/ai-book-docusaurus/docs/module-2/urdf-sdf-formats",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3/cognitive-planning-actions",
+              "path": "/ai-book-docusaurus/docs/module-3/cognitive-planning-actions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3/intro",
+              "path": "/ai-book-docusaurus/docs/module-3/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3/isaac-environment-setup",
+              "path": "/ai-book-docusaurus/docs/module-3/isaac-environment-setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3/nvidia-isaac-architecture",
+              "path": "/ai-book-docusaurus/docs/module-3/nvidia-isaac-architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3/perception-ai-models",
+              "path": "/ai-book-docusaurus/docs/module-3/perception-ai-models",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3/sim-to-real-bridge",
+              "path": "/ai-book-docusaurus/docs/module-3/sim-to-real-bridge",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3/training-loop",
+              "path": "/ai-book-docusaurus/docs/module-3/training-loop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4/bipedal-locomotion-balance",
+              "path": "/ai-book-docusaurus/docs/module-4/bipedal-locomotion-balance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4/capstone-autonomous-humanoid",
+              "path": "/ai-book-docusaurus/docs/module-4/capstone-autonomous-humanoid",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4/cognitive-planning-llm-ros",
+              "path": "/ai-book-docusaurus/docs/module-4/cognitive-planning-llm-ros",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4/humanoid-kinematics-dynamics",
+              "path": "/ai-book-docusaurus/docs/module-4/humanoid-kinematics-dynamics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4/manipulation-grasping",
+              "path": "/ai-book-docusaurus/docs/module-4/manipulation-grasping",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4/multi-modal-interaction",
+              "path": "/ai-book-docusaurus/docs/module-4/multi-modal-interaction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4/vla-overview",
+              "path": "/ai-book-docusaurus/docs/module-4/vla-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4/voice-to-action-whisper",
+              "path": "/ai-book-docusaurus/docs/module-4/voice-to-action-whisper",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/ai-book-docusaurus/docs/module-1/intro",
+                "label": "module-1/intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

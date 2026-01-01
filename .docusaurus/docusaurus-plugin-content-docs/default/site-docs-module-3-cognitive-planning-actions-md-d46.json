@@ -1,0 +1,29 @@
+{
+  "id": "module-3/cognitive-planning-actions",
+  "title": "Cognitive Planning & Actions",
+  "description": "Understanding cognitive planning and action execution in humanoid robots using NVIDIA Isaac",
+  "source": "@site/docs/module-3/cognitive-planning-actions.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/cognitive-planning-actions",
+  "permalink": "/ai-book-docusaurus/docs/module-3/cognitive-planning-actions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-3/cognitive-planning-actions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Cognitive Planning & Actions",
+    "description": "Understanding cognitive planning and action execution in humanoid robots using NVIDIA Isaac",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NVIDIA Isaac Architecture",
+    "permalink": "/ai-book-docusaurus/docs/module-3/nvidia-isaac-architecture"
+  },
+  "next": {
+    "title": "Isaac Environment Setup",
+    "permalink": "/ai-book-docusaurus/docs/module-3/isaac-environment-setup"
+  }
+}

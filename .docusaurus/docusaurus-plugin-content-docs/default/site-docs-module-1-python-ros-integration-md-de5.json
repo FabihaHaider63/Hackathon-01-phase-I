@@ -1,0 +1,29 @@
+{
+  "id": "module-1/python-ros-integration",
+  "title": "Bridging Python AI Agents with ROS Controllers",
+  "description": "Integrating Python-based AI agents with ROS 2 control systems for humanoid robotics",
+  "source": "@site/docs/module-1/python-ros-integration.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/python-ros-integration",
+  "permalink": "/ai-book-docusaurus/docs/module-1/python-ros-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-1/python-ros-integration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Bridging Python AI Agents with ROS Controllers",
+    "sidebar_position": 3,
+    "description": "Integrating Python-based AI agents with ROS 2 control systems for humanoid robotics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "URDF for Humanoid Robot Modeling",
+    "permalink": "/ai-book-docusaurus/docs/module-1/urdf-humanoid"
+  },
+  "next": {
+    "title": "Sensor Systems Overview",
+    "permalink": "/ai-book-docusaurus/docs/module-1/sensor-systems"
+  }
+}

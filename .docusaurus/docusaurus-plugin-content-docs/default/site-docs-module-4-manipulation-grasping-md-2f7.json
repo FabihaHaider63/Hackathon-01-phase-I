@@ -1,0 +1,29 @@
+{
+  "id": "module-4/manipulation-grasping",
+  "title": "Manipulation & Grasping",
+  "description": "Techniques for robotic manipulation and object grasping in humanoid robots",
+  "source": "@site/docs/module-4/manipulation-grasping.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/manipulation-grasping",
+  "permalink": "/ai-book-docusaurus/docs/module-4/manipulation-grasping",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-4/manipulation-grasping.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Manipulation & Grasping",
+    "description": "Techniques for robotic manipulation and object grasping in humanoid robots",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bipedal Locomotion & Balance Control",
+    "permalink": "/ai-book-docusaurus/docs/module-4/bipedal-locomotion-balance"
+  },
+  "next": {
+    "title": "Multi-Modal Interaction",
+    "permalink": "/ai-book-docusaurus/docs/module-4/multi-modal-interaction"
+  }
+}

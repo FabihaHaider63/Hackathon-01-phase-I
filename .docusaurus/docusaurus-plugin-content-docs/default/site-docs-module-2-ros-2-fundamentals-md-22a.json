@@ -1,0 +1,29 @@
+{
+  "id": "module-2/ros2-fundamentals",
+  "title": "ROS 2 Fundamentals (Weeks 3–5)",
+  "description": "Core concepts of ROS 2 architecture, nodes, topics, services, and actions for humanoid robotics",
+  "source": "@site/docs/module-2/ros2-fundamentals.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/ros2-fundamentals",
+  "permalink": "/ai-book-docusaurus/docs/module-2/ros2-fundamentals",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-2/ros2-fundamentals.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "ROS 2 Fundamentals (Weeks 3–5)",
+    "sidebar_position": 2,
+    "description": "Core concepts of ROS 2 architecture, nodes, topics, services, and actions for humanoid robotics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "URDF & SDF Formats",
+    "permalink": "/ai-book-docusaurus/docs/module-2/urdf-sdf-formats"
+  },
+  "next": {
+    "title": "Nodes, Topics, Services, Actions",
+    "permalink": "/ai-book-docusaurus/docs/module-2/nodes-topics-services-actions"
+  }
+}

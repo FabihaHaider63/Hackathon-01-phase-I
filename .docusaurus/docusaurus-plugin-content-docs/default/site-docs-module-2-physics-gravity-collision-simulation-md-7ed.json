@@ -1,0 +1,20 @@
+{
+  "id": "module-2/physics-gravity-collision-simulation",
+  "title": "Physics, Gravity, Collision Simulation",
+  "description": "Understanding physics simulation in Gazebo for humanoid robots including gravity, collision detection, and realistic dynamics",
+  "source": "@site/docs/module-2/physics-gravity-collision-simulation.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/physics-gravity-collision-simulation",
+  "permalink": "/ai-book-docusaurus/docs/module-2/physics-gravity-collision-simulation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-2/physics-gravity-collision-simulation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "title": "Physics, Gravity, Collision Simulation",
+    "sidebar_position": 10,
+    "description": "Understanding physics simulation in Gazebo for humanoid robots including gravity, collision detection, and realistic dynamics"
+  }
+}

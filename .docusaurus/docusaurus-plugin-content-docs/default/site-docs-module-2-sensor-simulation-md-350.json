@@ -1,0 +1,29 @@
+{
+  "id": "module-2/sensor-simulation",
+  "title": "Sensor Simulation (LiDAR, Depth, IMU)",
+  "description": "Understanding sensor simulation in Gazebo for humanoid robots, including LiDAR, depth cameras, and IMU sensors",
+  "source": "@site/docs/module-2/sensor-simulation.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/sensor-simulation",
+  "permalink": "/ai-book-docusaurus/docs/module-2/sensor-simulation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-2/sensor-simulation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "title": "Sensor Simulation (LiDAR, Depth, IMU)",
+    "description": "Understanding sensor simulation in Gazebo for humanoid robots, including LiDAR, depth cameras, and IMU sensors",
+    "sidebar_position": 11
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gazebo Environment Setup",
+    "permalink": "/ai-book-docusaurus/docs/module-2/gazebo-environment-setup"
+  },
+  "next": {
+    "title": "AI-Robot Brain Overview",
+    "permalink": "/ai-book-docusaurus/docs/module-3/intro"
+  }
+}

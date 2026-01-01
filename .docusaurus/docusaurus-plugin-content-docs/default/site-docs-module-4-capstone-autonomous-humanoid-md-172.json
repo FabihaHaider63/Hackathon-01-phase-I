@@ -1,0 +1,25 @@
+{
+  "id": "module-4/capstone-autonomous-humanoid",
+  "title": "Capstone - Autonomous Humanoid",
+  "description": "Integrating all components into a fully autonomous humanoid robot system",
+  "source": "@site/docs/module-4/capstone-autonomous-humanoid.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/capstone-autonomous-humanoid",
+  "permalink": "/ai-book-docusaurus/docs/module-4/capstone-autonomous-humanoid",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-4/capstone-autonomous-humanoid.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "Capstone - Autonomous Humanoid",
+    "description": "Integrating all components into a fully autonomous humanoid robot system",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Multi-Modal Interaction",
+    "permalink": "/ai-book-docusaurus/docs/module-4/multi-modal-interaction"
+  }
+}

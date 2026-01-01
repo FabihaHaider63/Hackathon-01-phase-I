@@ -1,0 +1,86 @@
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #80303F; /* Brown theme color */
+  --ifm-color-primary-dark: #732a38;
+  --ifm-color-primary-darker: #6c2835;
+  --ifm-color-primary-darkest: #59212b;
+  --ifm-color-primary-light: #8d3545;
+  --ifm-color-primary-lighter: #943748;
+  --ifm-color-primary-lightest: #a73e4f;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* Remove dark theme variables to enforce light-only theme */
+/* [data-theme='dark'] block removed to ensure only light theme is used */
+
+/* Ensure all text content is black as required */
+body {
+  color: #000000 !important;
+  background-color: #FFFFFF !important;
+}
+
+/* Override any theme colors to ensure compliance with requirements */
+.navbar {
+  background-color: #FFFFFF !important;
+}
+
+.main-wrapper {
+  background-color: #FFFFFF !important;
+}
+
+.footer {
+  background-color: #FFFFFF !important;
+  color: #000000 !important;
+}
+
+/* Ensure all text remains black */
+.markdown {
+  color: #000000 !important;
+}
+
+.markdown h1,
+.markdown h2,
+.markdown h3,
+.markdown h4,
+.markdown h5,
+.markdown h6 {
+  color: #000000 !important;
+}
+
+/* Ensure links use the accent color */
+a {
+  color: #80303F !important;
+}
+
+.docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+/* Custom style for sidebar */
+.sidebar {
+  background-color: #FFFFFF !important;
+  color: #000000 !important;
+}
+
+/* Custom style for sidebar items */
+.sidebar-item {
+  color: #000000 !important;
+}
+
+.sidebar-item:hover {
+  background-color: #f5f5f5 !important;
+}
+
+/* Custom style for doc content */
+.doc-content {
+  background-color: #FFFFFF !important;
+  color: #000000 !important;
+}

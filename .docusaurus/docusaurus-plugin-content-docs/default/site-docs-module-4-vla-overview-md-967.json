@@ -1,0 +1,29 @@
+{
+  "id": "module-4/vla-overview",
+  "title": "VLA Overview",
+  "description": "Understanding Vision-Language-Action systems in humanoid robotics",
+  "source": "@site/docs/module-4/vla-overview.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/vla-overview",
+  "permalink": "/ai-book-docusaurus/docs/module-4/vla-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-4/vla-overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "VLA Overview",
+    "description": "Understanding Vision-Language-Action systems in humanoid robotics",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sim-to-Real Bridge",
+    "permalink": "/ai-book-docusaurus/docs/module-3/sim-to-real-bridge"
+  },
+  "next": {
+    "title": "Voice-to-Action with OpenAI Whisper",
+    "permalink": "/ai-book-docusaurus/docs/module-4/voice-to-action-whisper"
+  }
+}

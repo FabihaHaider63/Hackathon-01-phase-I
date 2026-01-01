@@ -1,0 +1,29 @@
+{
+  "id": "module-4/voice-to-action-whisper",
+  "title": "Voice-to-Action with OpenAI Whisper",
+  "description": "Implementing speech recognition and command interpretation using OpenAI Whisper",
+  "source": "@site/docs/module-4/voice-to-action-whisper.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/voice-to-action-whisper",
+  "permalink": "/ai-book-docusaurus/docs/module-4/voice-to-action-whisper",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-4/voice-to-action-whisper.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Voice-to-Action with OpenAI Whisper",
+    "description": "Implementing speech recognition and command interpretation using OpenAI Whisper",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VLA Overview",
+    "permalink": "/ai-book-docusaurus/docs/module-4/vla-overview"
+  },
+  "next": {
+    "title": "Cognitive Planning - LLM → ROS 2 Actions",
+    "permalink": "/ai-book-docusaurus/docs/module-4/cognitive-planning-llm-ros"
+  }
+}

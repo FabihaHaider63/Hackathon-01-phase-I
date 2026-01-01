@@ -1,0 +1,29 @@
+{
+  "id": "module-4/cognitive-planning-llm-ros",
+  "title": "Cognitive Planning - LLM → ROS 2 Actions",
+  "description": "Implementing cognitive planning using Large Language Models to generate ROS 2 actions",
+  "source": "@site/docs/module-4/cognitive-planning-llm-ros.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/cognitive-planning-llm-ros",
+  "permalink": "/ai-book-docusaurus/docs/module-4/cognitive-planning-llm-ros",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-4/cognitive-planning-llm-ros.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Cognitive Planning - LLM → ROS 2 Actions",
+    "description": "Implementing cognitive planning using Large Language Models to generate ROS 2 actions",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Voice-to-Action with OpenAI Whisper",
+    "permalink": "/ai-book-docusaurus/docs/module-4/voice-to-action-whisper"
+  },
+  "next": {
+    "title": "Humanoid Kinematics & Dynamics",
+    "permalink": "/ai-book-docusaurus/docs/module-4/humanoid-kinematics-dynamics"
+  }
+}

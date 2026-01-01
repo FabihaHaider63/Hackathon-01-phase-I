@@ -1,0 +1,29 @@
+{
+  "id": "module-3/isaac-environment-setup",
+  "title": "Isaac Environment Setup",
+  "description": "Setting up the NVIDIA Isaac environment for humanoid robotics development",
+  "source": "@site/docs/module-3/isaac-environment-setup.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/isaac-environment-setup",
+  "permalink": "/ai-book-docusaurus/docs/module-3/isaac-environment-setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-3/isaac-environment-setup.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Isaac Environment Setup",
+    "description": "Setting up the NVIDIA Isaac environment for humanoid robotics development",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cognitive Planning & Actions",
+    "permalink": "/ai-book-docusaurus/docs/module-3/cognitive-planning-actions"
+  },
+  "next": {
+    "title": "Perception & AI Models",
+    "permalink": "/ai-book-docusaurus/docs/module-3/perception-ai-models"
+  }
+}

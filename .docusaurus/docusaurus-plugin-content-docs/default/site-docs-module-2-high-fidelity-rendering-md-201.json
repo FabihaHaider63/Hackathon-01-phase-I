@@ -1,0 +1,20 @@
+{
+  "id": "module-2/high-fidelity-rendering",
+  "title": "High-Fidelity Rendering",
+  "description": "Techniques for achieving photorealistic rendering of humanoid robots and environments in Unity",
+  "source": "@site/docs/module-2/high-fidelity-rendering.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/high-fidelity-rendering",
+  "permalink": "/ai-book-docusaurus/docs/module-2/high-fidelity-rendering",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-2/high-fidelity-rendering.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "title": "High-Fidelity Rendering",
+    "description": "Techniques for achieving photorealistic rendering of humanoid robots and environments in Unity",
+    "sidebar_position": 13
+  }
+}

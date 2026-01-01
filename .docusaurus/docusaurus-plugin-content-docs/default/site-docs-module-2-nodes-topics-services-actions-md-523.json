@@ -1,0 +1,29 @@
+{
+  "id": "module-2/nodes-topics-services-actions",
+  "title": "Nodes, Topics, Services, Actions",
+  "description": "Understanding the fundamental communication patterns in ROS 2 for humanoid robotics applications",
+  "source": "@site/docs/module-2/nodes-topics-services-actions.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/nodes-topics-services-actions",
+  "permalink": "/ai-book-docusaurus/docs/module-2/nodes-topics-services-actions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-2/nodes-topics-services-actions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Nodes, Topics, Services, Actions",
+    "sidebar_position": 4,
+    "description": "Understanding the fundamental communication patterns in ROS 2 for humanoid robotics applications"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS 2 Fundamentals (Weeks 3–5)",
+    "permalink": "/ai-book-docusaurus/docs/module-2/ros2-fundamentals"
+  },
+  "next": {
+    "title": "Building ROS 2 Packages (Python)",
+    "permalink": "/ai-book-docusaurus/docs/module-2/building-ros2-packages-python"
+  }
+}

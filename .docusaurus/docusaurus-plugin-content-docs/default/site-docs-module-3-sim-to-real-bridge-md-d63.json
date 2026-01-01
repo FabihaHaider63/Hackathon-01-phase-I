@@ -1,0 +1,29 @@
+{
+  "id": "module-3/sim-to-real-bridge",
+  "title": "Sim-to-Real Bridge",
+  "description": "Transferring trained models and behaviors from simulation to real humanoid robots",
+  "source": "@site/docs/module-3/sim-to-real-bridge.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/sim-to-real-bridge",
+  "permalink": "/ai-book-docusaurus/docs/module-3/sim-to-real-bridge",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-3/sim-to-real-bridge.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Sim-to-Real Bridge",
+    "description": "Transferring trained models and behaviors from simulation to real humanoid robots",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Training Loop",
+    "permalink": "/ai-book-docusaurus/docs/module-3/training-loop"
+  },
+  "next": {
+    "title": "VLA Overview",
+    "permalink": "/ai-book-docusaurus/docs/module-4/vla-overview"
+  }
+}

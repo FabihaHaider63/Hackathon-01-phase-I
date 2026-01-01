@@ -1,0 +1,15 @@
+{
+  "id": "module-3/chapter-outline",
+  "title": "chapter-outline",
+  "description": "---",
+  "source": "@site/docs/module-3/chapter-outline.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/chapter-outline",
+  "permalink": "/ai-book-docusaurus/docs/module-3/chapter-outline",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/docs/module-3/chapter-outline.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}
