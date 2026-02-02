@@ -202,3 +202,5 @@ builds/
 
 # Eclipse JDT Language Server
 *.jdt.ls
+.vercel
+.env*.local
