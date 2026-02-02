@@ -24,12 +24,12 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\M.R COMPUTERS\\Desktop\\newji\\sidebars.js",
+          "sidebarPath": "C:\\Users\\M.R Computers\\Hakathon-01-phase-01\\Hackathon-01-phase-I\\sidebars.js",
           "editUrl": "https://github.com/your-username/ai-book-docusaurus/edit/main/docs/"
         },
         "blog": false,
         "theme": {
-          "customCss": "C:\\Users\\M.R COMPUTERS\\Desktop\\newji\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\M.R Computers\\Hakathon-01-phase-01\\Hackathon-01-phase-I\\src\\css\\custom.css"
         }
       }
     ]
