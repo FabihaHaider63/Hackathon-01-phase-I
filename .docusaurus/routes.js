@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/ai-book-docusaurus/__docusaurus/debug',
-    component: ComponentCreator('/ai-book-docusaurus/__docusaurus/debug', 'b41'),
-    exact: true
-  },
-  {
-    path: '/ai-book-docusaurus/__docusaurus/debug/config',
-    component: ComponentCreator('/ai-book-docusaurus/__docusaurus/debug/config', '40e'),
-    exact: true
-  },
-  {
-    path: '/ai-book-docusaurus/__docusaurus/debug/content',
-    component: ComponentCreator('/ai-book-docusaurus/__docusaurus/debug/content', '82f'),
-    exact: true
-  },
-  {
-    path: '/ai-book-docusaurus/__docusaurus/debug/globalData',
-    component: ComponentCreator('/ai-book-docusaurus/__docusaurus/debug/globalData', '4b2'),
-    exact: true
-  },
-  {
-    path: '/ai-book-docusaurus/__docusaurus/debug/metadata',
-    component: ComponentCreator('/ai-book-docusaurus/__docusaurus/debug/metadata', '3d1'),
-    exact: true
-  },
-  {
-    path: '/ai-book-docusaurus/__docusaurus/debug/registry',
-    component: ComponentCreator('/ai-book-docusaurus/__docusaurus/debug/registry', '73e'),
-    exact: true
-  },
-  {
-    path: '/ai-book-docusaurus/__docusaurus/debug/routes',
-    component: ComponentCreator('/ai-book-docusaurus/__docusaurus/debug/routes', 'e28'),
-    exact: true
-  },
-  {
     path: '/ai-book-docusaurus/docs',
     component: ComponentCreator('/ai-book-docusaurus/docs', '164'),
     routes: [
